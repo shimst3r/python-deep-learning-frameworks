@@ -6,7 +6,7 @@ on:
     - cron: "0 * * * *"
 
 jobs:
-  markscribe:
+  update_readme:
     runs-on: ubuntu-latest
 
     steps:

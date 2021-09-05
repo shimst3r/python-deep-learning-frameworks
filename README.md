@@ -32,7 +32,7 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 | [Neuraxle](https://www.neuraxle.org/) | Neuraxio | A Sklearn-like Framework for Hyperparameter Tuning and AutoML in Deep Learning projects. Finally have the right abstractions and design patterns to properly do AutoML. Let your pipeline steps have hyperparameter spaces. Enable checkpoints to cut duplicate calculations. Go from research to production environment easily. | 445 | 50 | 148 | 1 day(s) ago |
 | [quickvision](https://github.com/oke-aditya/quickvision) |  | An Easy To Use PyTorch Computer Vision Library | 45 | 3 | 19 | 71 day(s) ago |
 
-Last update: Sun, 05 Sep 2021 07:38:38 UTC
+Last update: Sun, 05 Sep 2021 07:40:16 UTC
 
 ## Contributing
 

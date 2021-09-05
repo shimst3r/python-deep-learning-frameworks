@@ -9,6 +9,8 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 {% for repo in repositories -%}
 | {{ repo.name }} | {{ repo.organization_name }} | {{ repo.description }} | {{ repo.stargazers_count }} | {{ repo.forks_count }} | {{ repo.open_issues_count }} | {{ repo.last_commit }} day(s) ago |
 {% endfor %}
+Last update: {{ last_update }}
+
 ## Contributing
 
 If you want to add a new framework to the list, please add it to [`list.txt`](./python-deep-learning-frameworks/list.txt) and open a PR!

@@ -1,0 +1,27 @@
+name: Update README
+
+on:
+  push:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@master
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run update.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python python_deep_learning_frameworks/update.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: Update README.md using GitHub Workflow
+          branch: main

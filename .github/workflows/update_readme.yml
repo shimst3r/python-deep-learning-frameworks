@@ -17,11 +17,11 @@ jobs:
           pip install -r requirements.txt
       - name: Run update.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.API_TOKEN }}
         run: python python_deep_learning_frameworks/update.py
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.API_TOKEN }}
         with:
           commit_message: Update README.md using GitHub Workflow
           branch: main

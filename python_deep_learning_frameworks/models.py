@@ -1,4 +1,3 @@
-import math
 from datetime import datetime, timedelta
 
 DATETIME_FMT = "%a, %d %b %Y %H:%M:%S %Z"
@@ -31,7 +30,7 @@ class Repository:
         delta = datetime.today() - last_modified
         last_modified_in_days = delta / timedelta(days=1)
 
-        return math.floor(last_modified_in_days)
+        return round(last_modified_in_days)
 
     @property
     def name(self):

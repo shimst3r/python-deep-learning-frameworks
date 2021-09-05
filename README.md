@@ -8,7 +8,7 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 | ------------ | -------------------- | ----------- | ----: | ----: | ----------: | ----------- |
 | [tensorflow](https://tensorflow.org) | None | An Open Source Machine Learning Framework for Everyone | 158855 | 85414 | 3376 | 0 day(s) ago |
 | [keras](http://keras.io/) | Keras | Deep Learning for humans | 52283 | 18805 | 401 | 0 day(s) ago |
-| [transformers](https://huggingface.co/transformers) | Hugging Face | 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. | 50701 | 12039 | 418 | 0 day(s) ago |
+| [transformers](https://huggingface.co/transformers) | Hugging Face | 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. | 50701 | 12040 | 418 | 0 day(s) ago |
 | [pytorch](https://pytorch.org) | None | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 50621 | 13811 | 9739 | 0 day(s) ago |
 | [caffe](http://caffe.berkeleyvision.org/) | Berkeley Vision and Learning Center | Caffe: a fast open framework for deep learning. | 31895 | 18874 | 1168 | 0 day(s) ago |
 | [incubator-mxnet](https://mxnet.apache.org) | The Apache Software Foundation | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more | 19630 | 6874 | 1934 | 0 day(s) ago |
@@ -32,7 +32,7 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 | [Neuraxle](https://www.neuraxle.org/) | Neuraxio | A Sklearn-like Framework for Hyperparameter Tuning and AutoML in Deep Learning projects. Finally have the right abstractions and design patterns to properly do AutoML. Let your pipeline steps have hyperparameter spaces. Enable checkpoints to cut duplicate calculations. Go from research to production environment easily. | 445 | 50 | 148 | 1 day(s) ago |
 | [quickvision](https://github.com/oke-aditya/quickvision) |  | An Easy To Use PyTorch Computer Vision Library | 45 | 3 | 19 | 71 day(s) ago |
 
-Last update: Sun, 05 Sep 2021 09:40:55 UTC
+Last update: Sun, 05 Sep 2021 09:41:59 UTC
 
 ## Contributing
 

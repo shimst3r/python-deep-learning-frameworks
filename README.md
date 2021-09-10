@@ -6,11 +6,11 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 
 | Project Name | Project Organization | Description | Stars | Forks | Open Issues | Last Commit |
 | ------------ | -------------------- | ----------- | ----: | ----: | ----------: | ----------- |
-| [tensorflow](https://tensorflow.org) | None | An Open Source Machine Learning Framework for Everyone | 158963 | 85456 | 3328 | 0 day(s) ago |
-| [keras](http://keras.io/) | Keras | Deep Learning for humans | 52433 | 18807 | 385 | 0 day(s) ago |
-| [transformers](https://huggingface.co/transformers) | Hugging Face | 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. | 50918 | 12095 | 416 | 0 day(s) ago |
-| [pytorch](https://pytorch.org) | None | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 50727 | 13843 | 9814 | 0 day(s) ago |
-| [caffe](http://caffe.berkeleyvision.org/) | Berkeley Vision and Learning Center | Caffe: a fast open framework for deep learning. | 31902 | 18878 | 1168 | 0 day(s) ago |
+| [tensorflow](https://tensorflow.org) | None | An Open Source Machine Learning Framework for Everyone | 158965 | 85457 | 3327 | 0 day(s) ago |
+| [keras](http://keras.io/) | Keras | Deep Learning for humans | 52439 | 18807 | 385 | 0 day(s) ago |
+| [transformers](https://huggingface.co/transformers) | Hugging Face | 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. | 50920 | 12095 | 415 | 0 day(s) ago |
+| [pytorch](https://pytorch.org) | None | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 50727 | 13842 | 9815 | 0 day(s) ago |
+| [caffe](http://caffe.berkeleyvision.org/) | Berkeley Vision and Learning Center | Caffe: a fast open framework for deep learning. | 31901 | 18878 | 1168 | 0 day(s) ago |
 | [incubator-mxnet](https://mxnet.apache.org) | The Apache Software Foundation | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more | 19640 | 6877 | 1933 | 0 day(s) ago |
 | [Paddle](http://www.paddlepaddle.org/) | None | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） | 16437 | 3982 | 3057 | 0 day(s) ago |
 | [sonnet](https://sonnet.dev/) | DeepMind | TensorFlow-based neural network library | 8983 | 1287 | 22 | 0 day(s) ago |
@@ -32,7 +32,7 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 | [Neuraxle](https://www.neuraxle.org/) | Neuraxio | A Sklearn-like Framework for Hyperparameter Tuning and AutoML in Deep Learning projects. Finally have the right abstractions and design patterns to properly do AutoML. Let your pipeline steps have hyperparameter spaces. Enable checkpoints to cut duplicate calculations. Go from research to production environment easily. | 445 | 50 | 148 | 6 day(s) ago |
 | [quickvision](https://github.com/oke-aditya/quickvision) |  | An Easy To Use PyTorch Computer Vision Library | 45 | 3 | 19 | 76 day(s) ago |
 
-Last update: Fri, 10 Sep 2021 13:26:17 UTC
+Last update: Fri, 10 Sep 2021 14:18:42 UTC
 
 ## Contributing
 

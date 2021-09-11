@@ -7,8 +7,8 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 | Project Name | Project Organization | Description | Stars | Forks | Open Issues | Last Commit |
 | ------------ | -------------------- | ----------- | ----: | ----: | ----------: | ----------- |
 | [tensorflow](https://tensorflow.org) | None | An Open Source Machine Learning Framework for Everyone | 158992 | 85457 | 3313 | 0 day(s) ago |
-| [keras](http://keras.io/) | Keras | Deep Learning for humans | 52494 | 18808 | 386 | 0 day(s) ago |
-| [transformers](https://huggingface.co/transformers) | Hugging Face | 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. | 51050 | 12107 | 411 | 0 day(s) ago |
+| [keras](http://keras.io/) | Keras | Deep Learning for humans | 52495 | 18808 | 386 | 0 day(s) ago |
+| [transformers](https://huggingface.co/transformers) | Hugging Face | 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. | 51060 | 12107 | 411 | 0 day(s) ago |
 | [pytorch](https://pytorch.org) | None | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 50753 | 13849 | 9841 | 0 day(s) ago |
 | [caffe](http://caffe.berkeleyvision.org/) | Berkeley Vision and Learning Center | Caffe: a fast open framework for deep learning. | 31906 | 18879 | 1168 | 0 day(s) ago |
 | [incubator-mxnet](https://mxnet.apache.org) | The Apache Software Foundation | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more | 19642 | 6877 | 1933 | 0 day(s) ago |
@@ -32,7 +32,7 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 | [Neuraxle](https://www.neuraxle.org/) | Neuraxio | A Sklearn-like Framework for Hyperparameter Tuning and AutoML in Deep Learning projects. Finally have the right abstractions and design patterns to properly do AutoML. Let your pipeline steps have hyperparameter spaces. Enable checkpoints to cut duplicate calculations. Go from research to production environment easily. | 445 | 50 | 148 | 8 day(s) ago |
 | [quickvision](https://github.com/oke-aditya/quickvision) |  | An Easy To Use PyTorch Computer Vision Library | 45 | 3 | 19 | 77 day(s) ago |
 
-Last update: Sat, 11 Sep 2021 20:20:45 UTC
+Last update: Sat, 11 Sep 2021 21:16:47 UTC
 
 ## Contributing
 

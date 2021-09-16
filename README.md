@@ -6,9 +6,9 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 
 | Project Name | Project Organization | Description | Stars | Forks | Open Issues | Last Commit |
 | ------------ | -------------------- | ----------- | ----: | ----: | ----------: | ----------- |
-| [tensorflow](https://tensorflow.org) | None | An Open Source Machine Learning Framework for Everyone | 159108 | 85499 | 3270 | 0 day(s) ago |
-| [keras](http://keras.io/) | Keras | Deep Learning for humans | 52569 | 18811 | 379 | 0 day(s) ago |
-| [transformers](https://huggingface.co/transformers) | Hugging Face | 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. | 51370 | 12168 | 428 | 0 day(s) ago |
+| [tensorflow](https://tensorflow.org) | None | An Open Source Machine Learning Framework for Everyone | 159108 | 85500 | 3270 | 0 day(s) ago |
+| [keras](http://keras.io/) | Keras | Deep Learning for humans | 52569 | 18811 | 380 | 0 day(s) ago |
+| [transformers](https://huggingface.co/transformers) | Hugging Face | 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. | 51371 | 12168 | 427 | 0 day(s) ago |
 | [pytorch](https://pytorch.org) | None | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 50879 | 13894 | 9890 | 0 day(s) ago |
 | [caffe](http://caffe.berkeleyvision.org/) | Berkeley Vision and Learning Center | Caffe: a fast open framework for deep learning. | 31922 | 18878 | 1169 | 0 day(s) ago |
 | [incubator-mxnet](https://mxnet.apache.org) | The Apache Software Foundation | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more | 19652 | 6878 | 1938 | 0 day(s) ago |
@@ -27,12 +27,12 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 | [coach](https://intellabs.github.io/coach/) | Intel Labs | Reinforcement Learning Coach by Intel AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms | 2029 | 408 | 87 | 1 day(s) ago |
 | [karateclub](https://karateclub.readthedocs.io) |  | Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020) | 1398 | 165 | 0 | 1 day(s) ago |
 | [garage](https://github.com/rlworkgroup/garage) | Reinforcement Learning Working Group | A toolkit for reproducible reinforcement learning research. | 1285 | 237 | 216 | 1 day(s) ago |
-| [lightly](https://github.com/lightly-ai/lightly) | Lightly | A python library for self-supervised learning on images. | 1189 | 70 | 54 | 0 day(s) ago |
+| [lightly](https://github.com/lightly-ai/lightly) | Lightly | A python library for self-supervised learning on images. | 1190 | 70 | 54 | 0 day(s) ago |
 | [detecto](https://detecto.readthedocs.io/) |  | Build fully-functioning computer vision models with PyTorch | 502 | 83 | 26 | 4 day(s) ago |
 | [Neuraxle](https://www.neuraxle.org/) | Neuraxio | A Sklearn-like Framework for Hyperparameter Tuning and AutoML in Deep Learning projects. Finally have the right abstractions and design patterns to properly do AutoML. Let your pipeline steps have hyperparameter spaces. Enable checkpoints to cut duplicate calculations. Go from research to production environment easily. | 446 | 50 | 147 | 2 day(s) ago |
 | [quickvision](https://github.com/oke-aditya/quickvision) |  | An Easy To Use PyTorch Computer Vision Library | 45 | 3 | 19 | 82 day(s) ago |
 
-Last update: Thu, 16 Sep 2021 20:21:19 UTC
+Last update: Thu, 16 Sep 2021 21:17:20 UTC
 
 ## Contributing
 

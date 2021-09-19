@@ -14,7 +14,7 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 | [incubator-mxnet](https://mxnet.apache.org) | The Apache Software Foundation | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more | 19664 | 6877 | 1943 | 0 day(s) ago |
 | [Paddle](http://www.paddlepaddle.org/) | None | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） | 16491 | 4000 | 2749 | 0 day(s) ago |
 | [sonnet](https://sonnet.dev/) | DeepMind | TensorFlow-based neural network library | 8996 | 1287 | 22 | 0 day(s) ago |
-| [albumentations](https://albumentations.ai) | None | Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125 | 8772 | 1128 | 229 | 1 day(s) ago |
+| [albumentations](https://albumentations.ai) | None | Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125 | 8773 | 1127 | 229 | 0 day(s) ago |
 | [tvm](https://tvm.apache.org/) | The Apache Software Foundation | Open deep learning compiler stack for cpu, gpu and specialized accelerators | 7163 | 2175 | 311 | 0 day(s) ago |
 | [trax](https://github.com/google/trax) | Google | Trax — Deep Learning with Clear Code and Speed | 6467 | 643 | 81 | 0 day(s) ago |
 | [SerpentAI](http://serpent.ai) | Serpent.AI | Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own! | 6037 | 707 | 1 | 0 day(s) ago |
@@ -32,7 +32,7 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 | [Neuraxle](https://www.neuraxle.org/) | Neuraxio | A Sklearn-like Framework for Hyperparameter Tuning and AutoML in Deep Learning projects. Finally have the right abstractions and design patterns to properly do AutoML. Let your pipeline steps have hyperparameter spaces. Enable checkpoints to cut duplicate calculations. Go from research to production environment easily. | 446 | 50 | 147 | 5 day(s) ago |
 | [quickvision](https://github.com/oke-aditya/quickvision) |  | An Easy To Use PyTorch Computer Vision Library | 45 | 3 | 19 | 85 day(s) ago |
 
-Last update: Sun, 19 Sep 2021 20:20:51 UTC
+Last update: Sun, 19 Sep 2021 21:16:44 UTC
 
 ## Contributing
 

@@ -6,9 +6,9 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 
 | Project Name | Project Organization | Description | Stars | Forks | Open Issues | Last Commit |
 | ------------ | -------------------- | ----------- | ----: | ----: | ----------: | ----------- |
-| [tensorflow](https://tensorflow.org) | None | An Open Source Machine Learning Framework for Everyone | 159173 | 85512 | 3264 | 0 day(s) ago |
+| [tensorflow](https://tensorflow.org) | None | An Open Source Machine Learning Framework for Everyone | 159173 | 85513 | 3265 | 0 day(s) ago |
 | [keras](http://keras.io/) | Keras | Deep Learning for humans | 52605 | 18809 | 376 | 0 day(s) ago |
-| [transformers](https://huggingface.co/transformers) | Hugging Face | 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. | 51536 | 12202 | 421 | 0 day(s) ago |
+| [transformers](https://huggingface.co/transformers) | Hugging Face | 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. | 51537 | 12202 | 420 | 0 day(s) ago |
 | [pytorch](https://pytorch.org) | None | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 50945 | 13909 | 9911 | 0 day(s) ago |
 | [caffe](http://caffe.berkeleyvision.org/) | Berkeley Vision and Learning Center | Caffe: a fast open framework for deep learning. | 31929 | 18878 | 1171 | 1 day(s) ago |
 | [incubator-mxnet](https://mxnet.apache.org) | The Apache Software Foundation | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more | 19663 | 6879 | 1943 | 0 day(s) ago |
@@ -32,7 +32,7 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 | [Neuraxle](https://www.neuraxle.org/) | Neuraxio | A Sklearn-like Framework for Hyperparameter Tuning and AutoML in Deep Learning projects. Finally have the right abstractions and design patterns to properly do AutoML. Let your pipeline steps have hyperparameter spaces. Enable checkpoints to cut duplicate calculations. Go from research to production environment easily. | 446 | 50 | 147 | 5 day(s) ago |
 | [quickvision](https://github.com/oke-aditya/quickvision) |  | An Easy To Use PyTorch Computer Vision Library | 45 | 3 | 19 | 85 day(s) ago |
 
-Last update: Sun, 19 Sep 2021 16:30:00 UTC
+Last update: Sun, 19 Sep 2021 17:21:06 UTC
 
 ## Contributing
 

@@ -6,7 +6,7 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 
 | Project Name | Project Organization | Description | Stars | Forks | Open Issues | Last Commit |
 | ------------ | -------------------- | ----------- | ----: | ----: | ----------: | ----------- |
-| [tensorflow](https://tensorflow.org) | None | An Open Source Machine Learning Framework for Everyone | 159201 | 85516 | 3249 | 0 day(s) ago |
+| [tensorflow](https://tensorflow.org) | None | An Open Source Machine Learning Framework for Everyone | 159202 | 85517 | 3249 | 0 day(s) ago |
 | [keras](http://keras.io/) | Keras | Deep Learning for humans | 52616 | 18813 | 376 | 0 day(s) ago |
 | [transformers](https://huggingface.co/transformers) | Hugging Face | 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. | 51581 | 12217 | 416 | 0 day(s) ago |
 | [pytorch](https://pytorch.org) | None | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 50972 | 13921 | 9924 | 0 day(s) ago |
@@ -16,23 +16,23 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 | [sonnet](https://sonnet.dev/) | DeepMind | TensorFlow-based neural network library | 8998 | 1287 | 22 | 1 day(s) ago |
 | [albumentations](https://albumentations.ai) | None | Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125 | 8776 | 1127 | 229 | 0 day(s) ago |
 | [tvm](https://tvm.apache.org/) | The Apache Software Foundation | Open deep learning compiler stack for cpu, gpu and specialized accelerators | 7170 | 2176 | 323 | 0 day(s) ago |
-| [trax](https://github.com/google/trax) | Google | Trax — Deep Learning with Clear Code and Speed | 6468 | 643 | 81 | 0 day(s) ago |
+| [trax](https://github.com/google/trax) | Google | Trax — Deep Learning with Clear Code and Speed | 6469 | 643 | 81 | 0 day(s) ago |
 | [SerpentAI](http://serpent.ai) | Serpent.AI | Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own! | 6038 | 707 | 1 | 1 day(s) ago |
 | [chainer](https://chainer.org) | Chainer | A flexible framework of neural networks for deep learning | 5614 | 1374 | 11 | 5 day(s) ago |
 | [mlpack](https://www.mlpack.org/) | mlpack | mlpack: a scalable C++ machine learning library --  | 3815 | 1379 | 97 | 0 day(s) ago |
 | [tensorforce](https://github.com/tensorforce/tensorforce) | Tensorforce | Tensorforce: a TensorFlow library for applied reinforcement learning | 3018 | 513 | 6 | 4 day(s) ago |
 | [catalyst](https://catalyst-team.com) | Catalyst-Team | Accelerated deep learning R&D | 2715 | 340 | 7 | 0 day(s) ago |
-| [singa](https://github.com/apache/singa) | The Apache Software Foundation | a distributed deep learning platform | 2348 | 694 | 37 | 1 day(s) ago |
+| [singa](https://github.com/apache/singa) | The Apache Software Foundation | a distributed deep learning platform | 2350 | 696 | 37 | 0 day(s) ago |
 | [flax](https://github.com/google/flax) | Google | Flax is a neural network library for JAX that is designed for flexibility. | 2127 | 260 | 155 | 0 day(s) ago |
 | [coach](https://intellabs.github.io/coach/) | Intel Labs | Reinforcement Learning Coach by Intel AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms | 2031 | 408 | 87 | 2 day(s) ago |
-| [karateclub](https://karateclub.readthedocs.io) |  | Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020) | 1401 | 165 | 0 | 0 day(s) ago |
+| [karateclub](https://karateclub.readthedocs.io) |  | Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020) | 1401 | 165 | 0 | 1 day(s) ago |
 | [garage](https://github.com/rlworkgroup/garage) | Reinforcement Learning Working Group | A toolkit for reproducible reinforcement learning research. | 1286 | 238 | 216 | 1 day(s) ago |
 | [lightly](https://github.com/lightly-ai/lightly) | Lightly | A python library for self-supervised learning on images. | 1196 | 71 | 55 | 0 day(s) ago |
 | [detecto](https://detecto.readthedocs.io/) |  | Build fully-functioning computer vision models with PyTorch | 502 | 83 | 27 | 8 day(s) ago |
 | [Neuraxle](https://www.neuraxle.org/) | Neuraxio | A Sklearn-like Framework for Hyperparameter Tuning and AutoML in Deep Learning projects. Finally have the right abstractions and design patterns to properly do AutoML. Let your pipeline steps have hyperparameter spaces. Enable checkpoints to cut duplicate calculations. Go from research to production environment easily. | 446 | 50 | 147 | 7 day(s) ago |
 | [quickvision](https://github.com/oke-aditya/quickvision) |  | An Easy To Use PyTorch Computer Vision Library | 45 | 3 | 19 | 87 day(s) ago |
 
-Last update: Tue, 21 Sep 2021 04:27:08 UTC
+Last update: Tue, 21 Sep 2021 05:18:00 UTC
 
 ## Contributing
 

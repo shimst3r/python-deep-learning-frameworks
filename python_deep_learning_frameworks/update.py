@@ -18,14 +18,18 @@ def main():
 
     repos = _get_repositories(project_root, g)
     repos = sorted(repos, key=lambda repo: repo.stargazers_count, reverse=True)
-    template = _populate_template(repos)
+
+    # Update repositories.csv
     _init_csv(project_root)
     _export_csv(project_root, repos)
-    _update_readme(template)
+
+    # Update README
+    template = _populate_template(project_root, repos)
+    _update_readme(project_root, template)
 
 
 def _export_csv(project_root, repositories: List[Repository]):
-    with (project_root / "repositories.csv").open("a", encoding="utf8") as csv_file:
+    with (project_root / "../repositories.csv").open("a", encoding="utf8") as csv_file:
         writer = csv.writer(csv_file, delimiter="\t")
         for repo in repositories:
             writer.writerow(repo.to_list())
@@ -41,7 +45,7 @@ def _get_repositories(project_root, g):
 
 
 def _init_csv(project_root):
-    csv_path = project_root / "repositories.csv"
+    csv_path = project_root / "../repositories.csv"
 
     if not csv_path.exists():
         with csv_path.open("w", encoding="utf8") as csv_file:

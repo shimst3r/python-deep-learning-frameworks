@@ -6,7 +6,7 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 
 | Project Name | Project Organization | Description | Stars | Forks | Open Issues | Last Commit |
 | ------------ | -------------------- | ----------- | ----: | ----: | ----------: | ----------- |
-| [tensorflow](https://tensorflow.org) | None | An Open Source Machine Learning Framework for Everyone | 159430 | 85569 | 3152 | 0 day(s) ago |
+| [tensorflow](https://tensorflow.org) | None | An Open Source Machine Learning Framework for Everyone | 159430 | 85569 | 3153 | 0 day(s) ago |
 | [keras](http://keras.io/) | Keras | Deep Learning for humans | 52717 | 18816 | 329 | 0 day(s) ago |
 | [transformers](https://huggingface.co/transformers) | Hugging Face | 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX. | 51955 | 12328 | 423 | 0 day(s) ago |
 | [pytorch](https://pytorch.org) | None | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 51159 | 13979 | 10074 | 0 day(s) ago |
@@ -23,7 +23,7 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 | [tensorforce](https://github.com/tensorforce/tensorforce) | Tensorforce | Tensorforce: a TensorFlow library for applied reinforcement learning | 3022 | 512 | 7 | 0 day(s) ago |
 | [catalyst](https://catalyst-team.com) | Catalyst-Team | Accelerated deep learning R&D | 2725 | 341 | 6 | 0 day(s) ago |
 | [singa](https://github.com/apache/singa) | The Apache Software Foundation | a distributed deep learning platform | 2366 | 706 | 37 | 1 day(s) ago |
-| [flax](https://github.com/google/flax) | Google | Flax is a neural network library for JAX that is designed for flexibility. | 2142 | 262 | 166 | 1 day(s) ago |
+| [flax](https://github.com/google/flax) | Google | Flax is a neural network library for JAX that is designed for flexibility. | 2142 | 262 | 165 | 0 day(s) ago |
 | [coach](https://intellabs.github.io/coach/) | Intel Labs | Reinforcement Learning Coach by Intel AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms | 2039 | 411 | 87 | 2 day(s) ago |
 | [karateclub](https://karateclub.readthedocs.io) |  | Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020) | 1411 | 165 | 0 | 0 day(s) ago |
 | [garage](https://github.com/rlworkgroup/garage) | Reinforcement Learning Working Group | A toolkit for reproducible reinforcement learning research. | 1298 | 237 | 216 | 0 day(s) ago |
@@ -32,7 +32,7 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 | [Neuraxle](https://www.neuraxle.org/) | Neuraxio | A Sklearn-like Framework for Hyperparameter Tuning and AutoML in Deep Learning projects. Finally have the right abstractions and design patterns to properly do AutoML. Let your pipeline steps have hyperparameter spaces. Enable checkpoints to cut duplicate calculations. Go from research to production environment easily. | 450 | 50 | 147 | 1 day(s) ago |
 | [quickvision](https://github.com/oke-aditya/quickvision) |  | An Easy To Use PyTorch Computer Vision Library | 46 | 3 | 19 | 2 day(s) ago |
 
-Last update: Thu, 30 Sep 2021 12:27:58 CEST
+Last update: Thu, 30 Sep 2021 10:32:59 UTC
 
 ## Historical Data
 

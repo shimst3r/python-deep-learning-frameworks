@@ -7,6 +7,18 @@ class Repository:
     def __init__(self, repo):
         self.repo = repo
 
+    def to_list(self):
+        """
+        Return relevant fields as list, e.g. for exporting as CSV.
+        """
+        return [
+            datetime.now().isoformat(),
+            self.name,
+            self.stargazers_count,
+            self.forks_count,
+            self.open_issues_count,
+        ]
+
     @property
     def description(self):
         return self.repo.description

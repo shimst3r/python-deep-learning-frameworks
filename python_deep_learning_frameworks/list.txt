@@ -7,6 +7,7 @@ benedekrozemberczki/karateclub
 BVLC/caffe
 catalyst-team/catalyst
 chainer/chainer
+deepmind/dm-haiku
 deepmind/sonnet
 google/flax
 google/trax

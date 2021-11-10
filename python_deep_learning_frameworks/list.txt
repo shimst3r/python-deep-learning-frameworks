@@ -20,6 +20,7 @@ Neuraxio/Neuraxle
 oke-aditya/quickvision
 PaddlePaddle/Paddle
 pytorch/pytorch
+PyTorchLightning/pytorch-lightning
 rlworkgroup/garage
 SerpentAI/SerpentAI
 tensorforce/tensorforce

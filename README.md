@@ -2,12 +2,16 @@
 
 Python Deep Learning Frameworks is a list of deep learning frameworks that are implemented in Python and hosted on GitHub. It is intended as an entry point for people new to deep learning in Python. The project is inspired by @mingrammer's [Top Python Web Frameworks](https://github.com/mingrammer/python-web-framework-stars).
 
+## Analytics
+
+Basic analytics of The List are available in [this notebook](./notebooks/development_over_time.ipynb).
+
 ## The List
 
 | Project Name | Project Organization | Description | Stars | Forks | Open Issues | Last Commit |
 | ------------ | -------------------- | ----------- | ----: | ----: | ----------: | ----------- |
 | [tensorflow](https://tensorflow.org) | None | An Open Source Machine Learning Framework for Everyone | 164149 | 86621 | 2450 | 0 day(s) ago |
-| [transformers](https://huggingface.co/transformers) | Hugging Face | 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. | 60757 | 14428 | 524 | 0 day(s) ago |
+| [transformers](https://huggingface.co/transformers) | Hugging Face | 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. | 60756 | 14428 | 524 | 0 day(s) ago |
 | [pytorch](https://pytorch.org) | None | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 55196 | 15314 | 11637 | 0 day(s) ago |
 | [keras](http://keras.io/) | Keras | Deep Learning for humans | 54895 | 19052 | 319 | 0 day(s) ago |
 | [caffe](http://caffe.berkeleyvision.org/) | Berkeley Vision and Learning Center | Caffe: a fast open framework for deep learning. | 32387 | 18979 | 1180 | 0 day(s) ago |
@@ -36,7 +40,7 @@ Python Deep Learning Frameworks is a list of deep learning frameworks that are i
 | [Neuraxle](https://www.neuraxle.org/) | Neuraxio | A Sklearn-like Framework for Hyperparameter Tuning and AutoML in Deep Learning projects. Finally have the right abstractions and design patterns to properly do AutoML. Let your pipeline steps have hyperparameter spaces. Enable checkpoints to cut duplicate calculations. Go from research to production environment easily. | 511 | 53 | 80 | 7 day(s) ago |
 | [quickvision](https://github.com/oke-aditya/quickvision) |  | An Easy To Use PyTorch Computer Vision Library | 48 | 5 | 19 | 26 day(s) ago |
 
-Last update: Sun, 10 Apr 2022 18:29:09 UTC
+Last update: Sun, 10 Apr 2022 18:30:13 UTC
 
 ## Historical Data
 

@@ -2,6 +2,10 @@
 
 Python Deep Learning Frameworks is a list of deep learning frameworks that are implemented in Python and hosted on GitHub. It is intended as an entry point for people new to deep learning in Python. The project is inspired by @mingrammer's [Top Python Web Frameworks](https://github.com/mingrammer/python-web-framework-stars).
 
+## Analytics
+
+Basic analytics of The List are available in [this notebook](./notebooks/development_over_time.ipynb).
+
 ## The List
 
 | Project Name | Project Organization | Description | Stars | Forks | Open Issues | Last Commit |

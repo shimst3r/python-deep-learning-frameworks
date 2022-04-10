@@ -2,10 +2,6 @@
 
 Python Deep Learning Frameworks is a list of deep learning frameworks that are implemented in Python and hosted on GitHub. It is intended as an entry point for people new to deep learning in Python. The project is inspired by @mingrammer's [Top Python Web Frameworks](https://github.com/mingrammer/python-web-framework-stars).
 
-## Analytics
-
-Basic analytics of The List are available in [this notebook](./notebooks/development_over_time.ipynb).
-
 ## The List
 
 | Project Name | Project Organization | Description | Stars | Forks | Open Issues | Last Commit |
@@ -40,7 +36,7 @@ Basic analytics of The List are available in [this notebook](./notebooks/develop
 | [Neuraxle](https://www.neuraxle.org/) | Neuraxio | A Sklearn-like Framework for Hyperparameter Tuning and AutoML in Deep Learning projects. Finally have the right abstractions and design patterns to properly do AutoML. Let your pipeline steps have hyperparameter spaces. Enable checkpoints to cut duplicate calculations. Go from research to production environment easily. | 511 | 53 | 80 | 7 day(s) ago |
 | [quickvision](https://github.com/oke-aditya/quickvision) |  | An Easy To Use PyTorch Computer Vision Library | 48 | 5 | 19 | 26 day(s) ago |
 
-Last update: Sun, 10 Apr 2022 18:23:45 UTC
+Last update: Sun, 10 Apr 2022 18:29:09 UTC
 
 ## Historical Data
 

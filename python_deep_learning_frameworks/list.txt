@@ -9,10 +9,12 @@ catalyst-team/catalyst
 chainer/chainer
 deepmind/dm-haiku
 deepmind/sonnet
+geohot/tinygrad
 google/flax
 google/trax
 huggingface/transformers
 IntelLabs/coach
+karpathy/micrograd
 keras-team/keras
 lightly-ai/lightly
 mlpack/mlpack

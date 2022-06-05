@@ -10,37 +10,37 @@ Basic analytics of The List are available in [this notebook](./notebooks/develop
 
 | Project Name | Project Organization | Description | Stars | Forks | Open Issues | Last Commit |
 | ------------ | -------------------- | ----------- | ----: | ----: | ----------: | ----------- |
-| [tensorflow](https://tensorflow.org) | None | An Open Source Machine Learning Framework for Everyone | 165415 | 86839 | 2371 | 0 day(s) ago |
-| [transformers](https://huggingface.co/transformers) | Hugging Face | 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. | 64198 | 15085 | 498 | 0 day(s) ago |
-| [pytorch](https://pytorch.org) | None | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 56423 | 15636 | 9984 | 0 day(s) ago |
-| [keras](http://keras.io/) | Keras | Deep Learning for humans | 55347 | 19100 | 347 | 0 day(s) ago |
-| [caffe](http://caffe.berkeleyvision.org/) | Berkeley Vision and Learning Center | Caffe: a fast open framework for deep learning. | 32658 | 18996 | 1182 | 0 day(s) ago |
-| [incubator-mxnet](https://mxnet.apache.org) | The Apache Software Foundation | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more | 19992 | 6897 | 1994 | 1 day(s) ago |
-| [pytorch-lightning](https://pytorchlightning.ai) | Pytorch Lightning | The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate. | 18610 | 2377 | 500 | 0 day(s) ago |
-| [Paddle](http://www.paddlepaddle.org/) | None | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） | 18298 | 4540 | 2901 | 0 day(s) ago |
-| [albumentations](https://albumentations.ai) | None | Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125 | 10314 | 1336 | 296 | 1 day(s) ago |
-| [sonnet](https://sonnet.dev/) | DeepMind | TensorFlow-based neural network library | 9302 | 1327 | 28 | 1 day(s) ago |
-| [tvm](https://tvm.apache.org/) | The Apache Software Foundation | Open deep learning compiler stack for cpu, gpu and specialized accelerators | 8154 | 2543 | 458 | 0 day(s) ago |
-| [trax](https://github.com/google/trax) | Google | Trax — Deep Learning with Clear Code and Speed | 6929 | 718 | 93 | 1 day(s) ago |
-| [SerpentAI](http://serpent.ai) | Serpent.AI | Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own! | 6260 | 737 | 2 | 1 day(s) ago |
-| [tinygrad](https://github.com/geohot/tinygrad) |  | You like pytorch? You like micrograd? You love tinygrad! ❤️  | 6015 | 612 | 10 | 0 day(s) ago |
-| [chainer](https://chainer.org) | Chainer | A flexible framework of neural networks for deep learning | 5695 | 1385 | 10 | 2 day(s) ago |
-| [mlpack](https://www.mlpack.org/) | mlpack | mlpack: a scalable C++ machine learning library --  | 4006 | 1428 | 63 | 1 day(s) ago |
-| [tensorforce](https://github.com/tensorforce/tensorforce) | Tensorforce | Tensorforce: a TensorFlow library for applied reinforcement learning | 3140 | 526 | 18 | 1 day(s) ago |
-| [flax](https://github.com/google/flax) | Google | Flax is a neural network library for JAX that is designed for flexibility. | 3040 | 350 | 118 | 1 day(s) ago |
-| [catalyst](https://catalyst-team.com) | Catalyst-Team | Accelerated deep learning R&D | 2938 | 365 | 1 | 2 day(s) ago |
-| [singa](https://github.com/apache/singa) | The Apache Software Foundation | a distributed deep learning platform | 2623 | 837 | 37 | 5 day(s) ago |
-| [coach](https://intellabs.github.io/coach/) | Intel Labs | Reinforcement Learning Coach by Intel AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms | 2155 | 428 | 89 | 2 day(s) ago |
-| [micrograd](https://github.com/karpathy/micrograd) |  | A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API | 2067 | 165 | 8 | 0 day(s) ago |
-| [dm-haiku](https://dm-haiku.readthedocs.io) | DeepMind | JAX-based neural network library | 1930 | 155 | 59 | 0 day(s) ago |
-| [karateclub](https://karateclub.readthedocs.io) |  | Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020) | 1630 | 203 | 2 | 0 day(s) ago |
-| [lightly](https://github.com/lightly-ai/lightly) | Lightly | A python library for self-supervised learning on images. | 1617 | 123 | 68 | 0 day(s) ago |
-| [garage](https://github.com/rlworkgroup/garage) | Reinforcement Learning Working Group | A toolkit for reproducible reinforcement learning research. | 1452 | 264 | 226 | 1 day(s) ago |
-| [detecto](https://detecto.readthedocs.io/) |  | Build fully-functioning computer vision models with PyTorch | 552 | 93 | 29 | 9 day(s) ago |
-| [Neuraxle](https://www.neuraxle.org/) | Neuraxio | The world's cleanest AutoML framework ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spaces. Design steps in your pipeline like components. Compatible with Scikit-Learn, TensorFlow, and most other frameworks and cloud environments. | 520 | 53 | 73 | 8 day(s) ago |
-| [quickvision](https://github.com/oke-aditya/quickvision) |  | An Easy To Use PyTorch Computer Vision Library | 49 | 5 | 19 | 19 day(s) ago |
+| [tensorflow](https://tensorflow.org) | None | An Open Source Machine Learning Framework for Everyone | 165436 | 86833 | 2374 | 0 day(s) ago |
+| [transformers](https://huggingface.co/transformers) | Hugging Face | 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. | 64267 | 15094 | 497 | 0 day(s) ago |
+| [pytorch](https://pytorch.org) | None | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 56437 | 15637 | 9986 | 0 day(s) ago |
+| [keras](http://keras.io/) | Keras | Deep Learning for humans | 55348 | 19101 | 347 | 0 day(s) ago |
+| [caffe](http://caffe.berkeleyvision.org/) | Berkeley Vision and Learning Center | Caffe: a fast open framework for deep learning. | 32659 | 18998 | 1182 | 1 day(s) ago |
+| [incubator-mxnet](https://mxnet.apache.org) | The Apache Software Foundation | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more | 19993 | 6897 | 1994 | 0 day(s) ago |
+| [pytorch-lightning](https://pytorchlightning.ai) | Pytorch Lightning | The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate. | 18616 | 2378 | 501 | 0 day(s) ago |
+| [Paddle](http://www.paddlepaddle.org/) | None | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） | 18299 | 4543 | 2907 | 0 day(s) ago |
+| [albumentations](https://albumentations.ai) | None | Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125 | 10317 | 1335 | 297 | 0 day(s) ago |
+| [sonnet](https://sonnet.dev/) | DeepMind | TensorFlow-based neural network library | 9304 | 1328 | 28 | 0 day(s) ago |
+| [tvm](https://tvm.apache.org/) | The Apache Software Foundation | Open deep learning compiler stack for cpu, gpu and specialized accelerators | 8158 | 2545 | 465 | 0 day(s) ago |
+| [trax](https://github.com/google/trax) | Google | Trax — Deep Learning with Clear Code and Speed | 6932 | 718 | 93 | 1 day(s) ago |
+| [SerpentAI](http://serpent.ai) | Serpent.AI | Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own! | 6260 | 738 | 2 | 2 day(s) ago |
+| [tinygrad](https://github.com/geohot/tinygrad) |  | You like pytorch? You like micrograd? You love tinygrad! ❤️  | 6015 | 612 | 10 | 1 day(s) ago |
+| [chainer](https://chainer.org) | Chainer | A flexible framework of neural networks for deep learning | 5695 | 1386 | 10 | 3 day(s) ago |
+| [mlpack](https://www.mlpack.org/) | mlpack | mlpack: a scalable C++ machine learning library --  | 4006 | 1428 | 64 | 2 day(s) ago |
+| [tensorforce](https://github.com/tensorforce/tensorforce) | Tensorforce | Tensorforce: a TensorFlow library for applied reinforcement learning | 3140 | 526 | 18 | 2 day(s) ago |
+| [flax](https://github.com/google/flax) | Google | Flax is a neural network library for JAX that is designed for flexibility. | 3042 | 350 | 118 | 0 day(s) ago |
+| [catalyst](https://catalyst-team.com) | Catalyst-Team | Accelerated deep learning R&D | 2939 | 365 | 1 | 1 day(s) ago |
+| [singa](https://github.com/apache/singa) | The Apache Software Foundation | a distributed deep learning platform | 2623 | 837 | 37 | 6 day(s) ago |
+| [coach](https://intellabs.github.io/coach/) | Intel Labs | Reinforcement Learning Coach by Intel AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms | 2155 | 428 | 89 | 3 day(s) ago |
+| [micrograd](https://github.com/karpathy/micrograd) |  | A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API | 2067 | 165 | 8 | 1 day(s) ago |
+| [dm-haiku](https://dm-haiku.readthedocs.io) | DeepMind | JAX-based neural network library | 1931 | 155 | 59 | 1 day(s) ago |
+| [karateclub](https://karateclub.readthedocs.io) |  | Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs (CIKM 2020) | 1635 | 203 | 0 | 0 day(s) ago |
+| [lightly](https://github.com/lightly-ai/lightly) | Lightly | A python library for self-supervised learning on images. | 1618 | 123 | 68 | 0 day(s) ago |
+| [garage](https://github.com/rlworkgroup/garage) | Reinforcement Learning Working Group | A toolkit for reproducible reinforcement learning research. | 1452 | 264 | 226 | 2 day(s) ago |
+| [detecto](https://detecto.readthedocs.io/) |  | Build fully-functioning computer vision models with PyTorch | 552 | 93 | 29 | 10 day(s) ago |
+| [Neuraxle](https://www.neuraxle.org/) | Neuraxio | The world's cleanest AutoML framework ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spaces. Design steps in your pipeline like components. Compatible with Scikit-Learn, TensorFlow, and most other frameworks and cloud environments. | 520 | 53 | 73 | 9 day(s) ago |
+| [quickvision](https://github.com/oke-aditya/quickvision) |  | An Easy To Use PyTorch Computer Vision Library | 49 | 5 | 19 | 20 day(s) ago |
 
-Last update: Sat, 04 Jun 2022 08:26:24 UTC
+Last update: Sun, 05 Jun 2022 08:26:05 UTC
 
 ## Historical Data
 
